@@ -7,7 +7,7 @@
     :black_circle: I like web technologies, the process of creating interfaces <br> and working with databases.
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=PuGaLo2907&show_icons=true&theme=transparent" />
+    <img height=170 align="right" src="https://github-readme-stats.vercel.app/api?username=PuGaLo2907&show_icons=true&theme=transparent" />
   </a>  
 </div>
 
