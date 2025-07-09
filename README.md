@@ -14,6 +14,8 @@
 <br>
 <br>
 
+### Where to find me
+
 <div id="badges">
     <a href="https://t.me/n30Nk1nG">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
@@ -28,9 +30,6 @@
       <img src="https://img.shields.io/badge/social-green?logo=aboutdotme&logoColor=white">
     </a>
 </div>
-
-<br>
-<br>
    
 ### Skils
 
@@ -39,3 +38,5 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,dotnet,figma,git,py,wordpress,)](https://skillicons.dev)
 
 </div>
+
+:black_circle: I hope to add more complex and interesting projects to my GitHub soon. <img src="https://camo.githubusercontent.com/20781fb7e6bcac4e827a97e65e8a1cda900a8fd523514b306043d7597e1fcea9/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f4053756e7365744d6b74">
