@@ -14,7 +14,11 @@
 <br>
 <br>
 
+[![wakatime](https://wakatime.com/badge/user/b5f1b285-a71f-4dc1-9a3c-9dc7b5bd3df0.svg)](https://wakatime.com/@b5f1b285-a71f-4dc1-9a3c-9dc7b5bd3df0)
+
 <!--START_SECTION:waka-->
+
+
 <!--END_SECTION:waka-->
 
 ### Where to find me
