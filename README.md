@@ -14,6 +14,9 @@
 <br>
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Where to find me
 
 <div id="badges">
