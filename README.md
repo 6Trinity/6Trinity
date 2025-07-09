@@ -27,7 +27,10 @@
     <a href="https://m-y.su/PuGaLo2907">
       <img src="https://img.shields.io/badge/social-green?logo=aboutdotme&logoColor=white">
     </a>
-  </div>
+</div>
+
+<br>
+<br>
    
 ### Skils
 
