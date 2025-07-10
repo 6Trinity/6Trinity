@@ -2,9 +2,8 @@
 
 <div id="header" align="left"> 
   <a>
-    :black_circle: I'm Egor, a beginner developer from Russia :eyes: <br>
+    :black_circle: I'm Egor, a beginner Full-stack developer and 1c developer from Russia :eyes: <br>
     :black_circle: I'm learning different technology stacks in search of the <br> most interesting for me.<br>
-    :black_circle: Full-stack development is the most interesting.<br>
     :black_circle: I like web technologies, the process of creating interfaces <br> and working with databases.
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
