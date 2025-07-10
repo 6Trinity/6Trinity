@@ -45,4 +45,9 @@
 
 </div>
 
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6Trinity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 I hope to add more complex and interesting projects to my GitHub soon... <img src="https://camo.githubusercontent.com/20781fb7e6bcac4e827a97e65e8a1cda900a8fd523514b306043d7597e1fcea9/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f4053756e7365744d6b74">
