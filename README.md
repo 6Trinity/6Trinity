@@ -31,7 +31,9 @@
     <a href="https://www.linkedin.com/in/6trinity">
       <img src="https://img.shields.io/badge/LinkedIn-blue">
     </a>
-
+    <a href="https://6trinity.github.io/MartynovDev">
+      <img src="https://img.shields.io/badge/My%20site-green">
+    </a>
 </div>
    
 ### Skils
