@@ -40,9 +40,7 @@
 
 <div id="stack">
   
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,figma,git,py,wordpress,js,mysql)](https://skillicons.dev)
-
-<img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" height="50">
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,figma,git,py,wordpress,js,mysql)](https://skillicons.dev) <img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" height="50">
 
 </div>
 
