@@ -19,7 +19,7 @@
 ### Where to find me
 
 <div id="badges">
-    <a href="https://t.me/n30Nk1nG">
+    <a href="https://t.me/Siegkls">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
     </a>
     <a href="https://discord.com/users/496273213509074945">
